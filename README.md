@@ -6,12 +6,12 @@ Content:
 A. CONCEPT
 
 B. HARDWARE
-_ process
-_ final set-up 
+/ process
+/ final set-up 
    
 C. SOFTWARE
-_ process
-_ IMU strip visualisation 
+/ process
+/ IMU strip visualisation 
    
 D. APPLICATION 
-_ live 6-axis control 
+/ live 6-axis control 
