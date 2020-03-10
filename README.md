@@ -4,6 +4,7 @@ This repository contains all the files developed for controlling a 6 axis robot 
 Content: 
 
 A. CONCEPT
+
 B. HARDWARE
 / process
 / final set-up 
