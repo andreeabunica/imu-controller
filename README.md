@@ -6,11 +6,14 @@ Content:
 A. CONCEPT
 
 B. HARDWARE
+'''
 > process
+'''
 > final set-up 
-   
+'''
 C. SOFTWARE
 > process
+'''
 > IMU strip visualisation 
    
 D. APPLICATION 
