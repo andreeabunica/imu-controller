@@ -3,16 +3,16 @@ This repository contains all the files developed for controlling a 6 axis robot 
 
 Content: 
 
-<A. CONCEPT
+A. CONCEPT
 
-<B. HARDWARE
+B. HARDWARE
 - process
 - final set-up 
 
-<C. SOFTWARE
+C. SOFTWARE
 - process
 - IMU strip visualisation 
    
-<D. APPLICATION 
+D. APPLICATION 
 - live 6-axis control 
 
