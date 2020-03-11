@@ -65,4 +65,4 @@ E. APPLICATION
 
 / simple circuit
 
-![](_readMe(assets)/E02_A.gif)
+![](_readMe(assets)/E00_A.gif)
