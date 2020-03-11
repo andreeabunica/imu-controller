@@ -26,8 +26,6 @@ D. APPLICATION
 
 # OVERVIEW 
 
-!add gh animation here 
-
 / project definition: 
 - flexible strip (position in space & real time movement feedback)
 
