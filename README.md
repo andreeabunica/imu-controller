@@ -56,6 +56,7 @@ test
 - circuit B
 
 ![](_readMe(assets)/Circuit_2_nm.PNG)
+![](_readMe(assets)/C_01_F.PNG)
 
 / first iteration of chained IMU strip
 
