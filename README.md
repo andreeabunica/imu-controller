@@ -5,15 +5,17 @@ Content:
 
 A. CONCEPT
 
-B. HARDWARE
+B. OVERVIEW
+
+C. HARDWARE
 - process
 - final set-up 
 
-C. SOFTWARE
+D. SOFTWARE
 - process
 - IMU strip visualisation 
    
-D. APPLICATION 
+E. APPLICATION 
 - live 6-axis control 
 
 # CONCEPT
@@ -25,3 +27,13 @@ D. APPLICATION
 - actuated strip/ small scale robot
 - haptic sensing
 - object recognition (features, properties)
+
+# OVERVIEW 
+
+!add gh animation here 
+
+/ project definition: 
+- flexible strip (position in space & real time movement feedback)
+
+- chained IMUs
+- interfaced through Arduino-Processing / Arduino-Firefly-Grasshopper 
