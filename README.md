@@ -65,4 +65,4 @@ E. APPLICATION
 
 / simple circuit
 
-![](_readMe(assets)/Circuit_01_nm.PNG)
+![](_readMe(assets)/E02_A.gif)
