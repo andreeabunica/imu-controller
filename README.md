@@ -97,6 +97,10 @@ IMU joint controller:
 
 # APPLICATION 
 
+/Simulation
+
+![](_readMe(assets)/S_F.gif)
+
 / 1 IMU used as attractor point 
 [firefly-grasshopper-machina]
 
