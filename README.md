@@ -37,23 +37,23 @@ D. APPLICATION
 
 # HARDWARE & SOFTWARE
 
-- ITEM LIST
+ITEM LIST
 
 ![](_readMe(assets)/H_00.PNG)
 
-- PROCESS
+PROCESS
 
-# circuit A 
+- circuit A 
 test
 
 ![](_readMe(assets)/Circuit_01_nm.PNG)
 
 / simple circuit [1 IMU- interfacing between Ardunio & Processing]
-- Accel & Gyro Outputs used
+(Accel & Gyro Outputs used)
 
 ![](_readMe(assets)/E00_A.gif)
 
-# circuit B
+- circuit B
 
 ![](_readMe(assets)/Circuit_2_nm.PNG)
 
@@ -71,14 +71,14 @@ test
 
 ** include video of the cleaned up signal!!!
 
-# circuit C
+- circuit C
 
-/ interfacing with the 6-axis 120 Robot
+interfacing with the 6-axis 120 Robot:
 
-- aim: 
+/aim: 
 
 
-- communication: 
+/communication: 
 
 ![](_readMe(assets)/C_00.PNG)
 
