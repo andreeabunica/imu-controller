@@ -18,6 +18,6 @@ D. APPLICATION
 
 # CONCEPT
 
-![](_readMe(assets)/06.png)
+![](_readMe(assets)/06.jpg)
 
 
