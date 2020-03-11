@@ -41,6 +41,10 @@ E. APPLICATION
 # HARDWARE
 
 - PROCESS
+
+/ first iteration of chained IMU strip
+
 ![](_readMe(assets)/E01_A.PNG)
+![](_readMe(assets)/E01_B.PNG)
 ![](_readMe(assets)/E02_A.gif)
 
