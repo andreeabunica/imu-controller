@@ -37,3 +37,7 @@ E. APPLICATION
 
 - chained IMUs
 - interfaced through Arduino-Processing / Arduino-Firefly-Grasshopper 
+
+#HARDWARE
+
+![](_readMe(assets)/E01_A.jpg)
