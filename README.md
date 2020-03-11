@@ -42,3 +42,5 @@ E. APPLICATION
 
 - PROCESS
 ![](_readMe(assets)/E01_A.PNG)
+![](_readMe(assets)/E02_A.gif)
+
