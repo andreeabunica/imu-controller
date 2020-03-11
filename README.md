@@ -40,4 +40,4 @@ E. APPLICATION
 
 #HARDWARE
 
-![](_readMe(assets)/E01_A.jpg)
+![](_readMe(assets)/E01_A.png)
