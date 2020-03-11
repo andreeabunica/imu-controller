@@ -63,7 +63,7 @@ E. APPLICATION
 
 / interfacing with the 6-axis 120 Robot
 
-* diagram of the robot, IMU & real-time feedback from Machina 
+![](_readMe(assets)/C_00.PNG)
 
 # SOFTWARE 
 
