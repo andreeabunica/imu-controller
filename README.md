@@ -21,3 +21,6 @@ D. APPLICATION
 ![](_readMe(assets)/06.jpg)
 
 
+/initial idea: 
+- haptic sensing
+- object recognition (features, properties)
