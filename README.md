@@ -22,5 +22,6 @@ D. APPLICATION
 
 
 /initial idea: 
+- actuated strip/ small scale robot
 - haptic sensing
 - object recognition (features, properties)
