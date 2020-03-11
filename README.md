@@ -63,12 +63,12 @@ test
 ![](_readMe(assets)/E01_A.PNG)
 ![](_readMe(assets)/E01_B.PNG)
 
-- initial Arduino serial monitor data visualisation 
+/initial Arduino serial monitor data visualisation 
 (single line stream for all 5 sensors)
 
 ![](_readMe(assets)/E02_A.gif)
 
-- cleaned up Arduino serial monitor data (acc + gyro + gravity calculation)
+/cleaned up Arduino serial monitor data (acc + gyro + gravity calculation)
 
 ** include video of the cleaned up signal!!!
 
@@ -85,6 +85,15 @@ interfacing with the 6-axis 120 Robot:
 
 / grasshopper script: 
 add photo!
+
+/ devices: 
+
+IMU attractor point controller: 
+![](_readMe(assets)/H_F_02.PNG)
+
+IMU joint controller: 
+![](_readMe(assets)/H_F_01.PNG)
+
 
 # APPLICATION 
 
