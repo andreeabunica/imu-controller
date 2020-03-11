@@ -40,4 +40,5 @@ E. APPLICATION
 
 # HARDWARE
 
+- PROCESS
 ![](_readMe(assets)/E01_A.PNG)
