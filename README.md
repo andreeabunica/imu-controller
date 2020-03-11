@@ -40,6 +40,10 @@ E. APPLICATION
 
 # HARDWARE
 
+- ITEM LIST
+
+![](_readMe(assets)/H_00.PNG)
+
 - PROCESS
 
 / simple circuit 
