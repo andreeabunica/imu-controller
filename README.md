@@ -16,3 +16,6 @@ C. SOFTWARE
 D. APPLICATION 
 - live 6-axis control 
 
+# CONCEPT
+
+![](_readMe(Assets)/6.jpg)
