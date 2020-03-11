@@ -42,6 +42,10 @@ E. APPLICATION
 
 - PROCESS
 
+/ simple circuit 
+
+![](_readMe(assets)/Circuit_01_nm.PNG)
+
 / first iteration of chained IMU strip
 
 ![](_readMe(assets)/E01_A.PNG)
@@ -52,3 +56,13 @@ E. APPLICATION
 
 ![](_readMe(assets)/E02_A.gif)
 
+
+/ interfacing with the 6-axis 120 Robot
+
+* diagram of the robot, IMU & real-time feedback from Machina 
+
+# SOFTWARE 
+
+/ simple circuit
+
+![](_readMe(assets)/Circuit_01_nm.PNG)
