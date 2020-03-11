@@ -46,5 +46,9 @@ E. APPLICATION
 
 ![](_readMe(assets)/E01_A.PNG)
 ![](_readMe(assets)/E01_B.PNG)
+
+/ initial Arduino serial monitor data visualisation 
+(single line stream for all 5 sensors)
+
 ![](_readMe(assets)/E02_A.gif)
 
