@@ -7,15 +7,11 @@ A. CONCEPT
 
 B. OVERVIEW
 
-C. HARDWARE
+C. HARDWARE & SOFTWARE
 - process
 - final set-up 
 
-D. SOFTWARE
-- process
-- IMU strip visualisation 
-   
-E. APPLICATION 
+D. APPLICATION 
 - live 6-axis control 
 
 # CONCEPT
@@ -36,9 +32,10 @@ E. APPLICATION
 - flexible strip (position in space & real time movement feedback)
 
 - chained IMUs
-- interfaced through Arduino-Processing / Arduino-Firefly-Grasshopper 
+- interfaced through Arduino-Processing / Arduino-Firefly-Grasshopper-Machina
+- connects to ABB 120 + sends real time position data based on controller strip movement
 
-# HARDWARE
+# HARDWARE & SOFTWARE
 
 - ITEM LIST
 
@@ -46,31 +43,46 @@ E. APPLICATION
 
 - PROCESS
 
-/ simple circuit 
+# circuit A 
+test
 
 ![](_readMe(assets)/Circuit_01_nm.PNG)
+
+/ simple circuit [1 IMU- interfacing between Ardunio & Processing]
+- Accel & Gyro Outputs used
+
+![](_readMe(assets)/E00_A.gif)
+
+# circuit B
+
+![](_readMe(assets)/Circuit_2_nm.PNG)
 
 / first iteration of chained IMU strip
 
 ![](_readMe(assets)/E01_A.PNG)
 ![](_readMe(assets)/E01_B.PNG)
 
-/ initial Arduino serial monitor data visualisation 
+- initial Arduino serial monitor data visualisation 
 (single line stream for all 5 sensors)
 
 ![](_readMe(assets)/E02_A.gif)
 
+- cleaned up Arduino serial monitor data (acc + gyro + gravity calculation)
+
+** include video of the cleaned up signal!!!
+
+# circuit C
 
 / interfacing with the 6-axis 120 Robot
 
+- aim: 
+
+
+- communication: 
+
 ![](_readMe(assets)/C_00.PNG)
 
-# SOFTWARE 
-
-/ simple circuit [1 IMU- interfacing between Ardunio & Processing]
-- Accel & Gyro Outputs used
-
-![](_readMe(assets)/E00_A.gif)
+- grasshopper script: 
 
 # APPLICATION 
 
