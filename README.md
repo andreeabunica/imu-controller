@@ -73,5 +73,5 @@ E. APPLICATION
 ![](_readMe(assets)/E00_A.gif)
 
 # APPLICATION 
-
-<video src="_readMe(assets)/F_00.mp4" width="320" height="200" controls preload></video>
+![](_readMe(assets)/F_00.mp4)
+<video src=(_readMe(assets)/F_00.mp4) width="320" height="200" controls preload></video>
