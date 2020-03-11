@@ -76,20 +76,25 @@ test
 
 interfacing with the 6-axis 120 Robot:
 
-/aim: 
-
-
-/communication: 
+/ communication: 
 
 ![](_readMe(assets)/C_00.PNG)
 
-- grasshopper script: 
+/ circuit: 
+![](_readMe(assets)/Circuit_3_nm.PNG)
+
+/ grasshopper script: 
+add photo!
 
 # APPLICATION 
 
 / 1 IMU used as attractor point 
 [firefly-grasshopper-machina]
 
-* add video here
-
 ![](_readMe(assets)/F_00.gif)
+
+/ Live object position 
+add gif here!
+
+
+
