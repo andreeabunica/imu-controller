@@ -63,6 +63,7 @@ E. APPLICATION
 
 # SOFTWARE 
 
-/ simple circuit
+/ simple circuit [1 IMU- interfacing between Ardunio & Processing]
+- Accel & Gyro Outputs used
 
 ![](_readMe(assets)/E00_A.gif)
